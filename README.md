@@ -4,8 +4,8 @@
 This plugin displays votes, sponsored and cosponsored legislation for a selected senator in a paginated table format. The plugin retrieves data from the Congress API and senate.gov xml respositories and includes detailed links to Congress.gov for each bill.
 
 #### Installation
-1. Upload the `legislation-votes` folder to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
+1. Upload the zip file via the 'Plugins' menu in WordPress.
+2. Activate the plugin.
 3. Go to 'Settings' -> 'Legislation' to select a Senator.
 
 #### Usage
