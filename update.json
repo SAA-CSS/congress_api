@@ -1,5 +1,12 @@
 {
   "version": "1.0.5",
   "download_url": "https://github.com/SAA-CSS/congress_api/raw/main/legislative-data.zip",
-  "changelog": "Replaced Propublica API with datasources from congress.gov and senate.gov."
+  "author": "Will Hebden",
+  "requires": "6.0",
+  "tested": "6.5.3",
+  "sections": {
+    "description": "Provides the [votes] and [legislation] shortcodes for displaying a Senate member's legislative data.",
+    "changelog": "Replaced Propublica API with datasources from congress.gov and senate.gov.",
+    "installation": "Upload the zip file using the Add Plugin feature in the WordPress Admin."
+  }
 }
