@@ -1,5 +1,5 @@
 {
   "version": "1.0.5",
-  "download_url": "https://example.com/path/to/your/plugin.zip",
+  "download_url": "https://github.com/SAA-CSS/congress_api/raw/main/legislative-data.zip",
   "changelog": "Replaced Propublica API with datasources from congress.gov and senate.gov."
 }
