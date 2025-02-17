@@ -1,12 +1,12 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.8",
   "download_url": "https://github.com/SAA-CSS/congress_api/raw/main/legislative-data.zip",
-  "author": "Will Hebden",
+  "author": "Will Hebden - Alterion",
   "requires": "6.0",
-  "tested": "6.5.3",
+  "tested": "6.7.2",
   "sections": {
-    "description": "Provides the [votes] and [legislation] shortcodes for displaying a Senate member's legislative data.",
-    "changelog": "Replaced Propublica API with datasources from congress.gov and senate.gov.",
-    "installation": "Upload the zip file using the Add Plugin feature in the WordPress Admin."
+    "description": "Provides the shortcodes for displaying Senate member and committee legislation data.",
+    "changelog": "Committee nominations and legislation. Removed sponsored legislation display when a particular member does not have any in the current congress. Repaired bug related to Senate joint resolutions.",
+    "installation": "After activating the plugin, navigate to Admin:Settings:Legislation for setup instructions."
   }
 }
