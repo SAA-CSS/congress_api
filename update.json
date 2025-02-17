@@ -6,6 +6,7 @@
   "tested": "6.7.2",
   "sections": {
     "description": "Provides the shortcodes for displaying Senate member and committee legislation data.",
+    "slug": "legislative-data",
     "changelog": "Committee nominations and legislation. Removed sponsored legislation display when a particular member does not have any in the current congress. Repaired bug related to Senate joint resolutions.",
     "installation": "After activating the plugin, navigate to Admin:Settings:Legislation for setup instructions."
   }
